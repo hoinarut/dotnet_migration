@@ -1,0 +1,11 @@
+{
+    "ConnectionStrings": {
+        "CoreMvcMovie": "ProductionConnectionString"
+    },
+    "Logging": {
+        "IncludeScopes": false,
+        "LogLevel": {
+            "Default": "None"
+        }
+    }
+}

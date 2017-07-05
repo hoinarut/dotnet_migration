@@ -1,0 +1,8 @@
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/bin/Debug/netcoreapp1.1/MovieDAL.deps.json
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/bin/Debug/netcoreapp1.1/MovieDAL.runtimeconfig.json
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/bin/Debug/netcoreapp1.1/MovieDAL.runtimeconfig.dev.json
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/bin/Debug/netcoreapp1.1/MovieDAL.dll
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/bin/Debug/netcoreapp1.1/MovieDAL.pdb
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/obj/Debug/netcoreapp1.1/MovieDAL.AssemblyInfo.cs
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/obj/Debug/netcoreapp1.1/MovieDAL.dll
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/obj/Debug/netcoreapp1.1/MovieDAL.pdb

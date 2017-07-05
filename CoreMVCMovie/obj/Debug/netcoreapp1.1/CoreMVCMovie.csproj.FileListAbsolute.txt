@@ -1,0 +1,10 @@
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/CoreMVCMovie.deps.json
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/CoreMVCMovie.runtimeconfig.json
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/CoreMVCMovie.runtimeconfig.dev.json
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/CoreMVCMovie.dll
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/CoreMVCMovie.pdb
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/MovieDAL.dll
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/bin/Debug/netcoreapp1.1/MovieDAL.pdb
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/obj/Debug/netcoreapp1.1/CoreMVCMovie.AssemblyInfo.cs
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/obj/Debug/netcoreapp1.1/CoreMVCMovie.dll
+/home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/CoreMVCMovie/obj/Debug/netcoreapp1.1/CoreMVCMovie.pdb
