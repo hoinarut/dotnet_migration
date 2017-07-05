@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/thoinaru/.nuget/packages"
+      "C:\\Users\\thoinaru\\.nuget\\packages"
     ]
   }
 }

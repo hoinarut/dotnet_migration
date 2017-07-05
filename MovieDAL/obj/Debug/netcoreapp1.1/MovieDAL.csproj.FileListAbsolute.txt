@@ -6,3 +6,11 @@
 /home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/obj/Debug/netcoreapp1.1/MovieDAL.AssemblyInfo.cs
 /home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/obj/Debug/netcoreapp1.1/MovieDAL.dll
 /home/thoinaru/Documents/Dev/Learning/Dotnet/DotNetCoreMigration/MovieDAL/obj/Debug/netcoreapp1.1/MovieDAL.pdb
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\bin\Debug\netcoreapp1.1\MovieDAL.deps.json
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\bin\Debug\netcoreapp1.1\MovieDAL.runtimeconfig.json
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\bin\Debug\netcoreapp1.1\MovieDAL.runtimeconfig.dev.json
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\bin\Debug\netcoreapp1.1\MovieDAL.dll
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\bin\Debug\netcoreapp1.1\MovieDAL.pdb
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\obj\Debug\netcoreapp1.1\MovieDAL.AssemblyInfo.cs
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\obj\Debug\netcoreapp1.1\MovieDAL.dll
+D:\Dev\Learning\Dotnetcore_Migration\dotnet_migration\MovieDAL\obj\Debug\netcoreapp1.1\MovieDAL.pdb
