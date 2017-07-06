@@ -7,6 +7,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using MovieDAL.EF;
+using MovieDAL.Initializers;
+using Microsoft.EntityFrameworkCore;
+using MovieDAL.Repos;
 
 namespace CoreMVCMovie
 {
@@ -27,8 +31,13 @@ namespace CoreMVCMovie
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton(_ => Configuration);
+            services.AddDbContext<MovieDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("CoreMvcMovie")));
             // Add framework services.
             services.AddMvc();
+            services.AddScoped<IMovieRepo, MovieRepo>();
+            services.AddScoped<IMovieGenreRepo, MovieGenreRepo>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,6 +50,11 @@ namespace CoreMVCMovie
             {
                 app.UseDeveloperExceptionPage();
                 app.UseBrowserLink();
+                using (var serviceScope = app.ApplicationServices.GetRequiredService<IServiceScopeFactory>()
+                .CreateScope())
+                {
+                    StoreDataInitializer.InitializeData(app.ApplicationServices);
+                }
             }
             else
             {

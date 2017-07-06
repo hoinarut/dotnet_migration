@@ -15,7 +15,7 @@ namespace MovieDAL.Models
         [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
-        public DateTime ReleaseDate { get; set; }
+        public virtual DateTime ReleaseDate { get; set; }
 
         [NotMapped]
         public string Genre => MovieGenre?.GenreName;

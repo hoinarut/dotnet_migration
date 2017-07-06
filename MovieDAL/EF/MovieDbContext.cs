@@ -16,7 +16,7 @@ namespace MovieDAL.EF
         {
             if (!optionsBuilder.IsConfigured)
             {
-                var connString = "Data Source=localhost;Database=CoreMvcMovies;User id=sa;Password=Cla0017!;MultipleActiveResultSets=true;";
+                var connString = "Data Source=localhost;Database=CoreMvcMovies;User id=sa;Password=Clau2017;MultipleActiveResultSets=true;";
                 optionsBuilder.UseSqlServer(connString);
             }
         }
